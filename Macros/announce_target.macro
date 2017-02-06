@@ -1,3 +1,0 @@
-!clearTargets
-@{selected|token_name} targets @{target|Target|token_name}
-!markTarget @{target|Target|token_id}
