@@ -44,4 +44,5 @@ Maps standard 5e conditions to a fixed set of standard status markers. Supports 
 (requires ApiExtensions/statusMarkerHelpers.js)
 Mark a target by token_id or selection with a specific status marker. Set, unset, toggle, and clear functions. Uses the same status marker as the "targeted" condition in ConditionMarkers. Designed to be used with a simple macro that clears old targets, announces the new target, and marks it.
 
-
+## Bristol
+Allows for realistic pooping simulation
